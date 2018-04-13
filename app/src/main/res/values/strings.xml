@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragment_Assignment</string>
+    <string name="add_fragment_A">Add Fragment A</string>
+    <string name="remove_fragment_A">Remove Fragment A</string>
+    <string name="add_fragment_B">Add Fragment B</string>
+    <string name="remove_fragment_B">Remove Fragment B</string>
+</resources>
